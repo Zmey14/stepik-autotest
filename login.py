@@ -3,8 +3,8 @@ import time
 
 
 class log():
-    login = 'mishkaneshishka@gmail.com'
-    passw = 'Borussia11'
+    login = 'Вводим свой email'
+    passw = 'Вводим свой пароль'
     
 
 
